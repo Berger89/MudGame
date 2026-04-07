@@ -1,0 +1,14 @@
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\bin\Debug\net8.0\MVPHerniSvet.exe
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\bin\Debug\net8.0\MVPHerniSvet.deps.json
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\bin\Debug\net8.0\MVPHerniSvet.runtimeconfig.json
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\bin\Debug\net8.0\MVPHerniSvet.dll
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\bin\Debug\net8.0\MVPHerniSvet.pdb
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.AssemblyInfo.cs
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.dll
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\refint\MVPHerniSvet.dll
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.pdb
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\MVPHerniSvet.genruntimeconfig.cache
+C:\Users\Michael\Desktop\MVPHerniSvet\MVPHerniSvet\obj\Debug\net8.0\ref\MVPHerniSvet.dll
