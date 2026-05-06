@@ -1,0 +1,12 @@
+{
+  "Jmeno": "b",
+  "HesloHash": "$2a$11$jzO0foS5EPr5HiqEWb/cPezlWdqcImEjqzIAAvw7vkPy2PvNltgHi",
+  "AktualniMistnostId": "namesti",
+  "Zivoty": 100,
+  "MaxZivoty": 100,
+  "Utok": 10,
+  "Obrana": 2,
+  "Penize": 0,
+  "InventarIds": [],
+  "DosazeneUspechy": []
+}

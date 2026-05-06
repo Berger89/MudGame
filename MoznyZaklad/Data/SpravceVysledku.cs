@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
-using MoznyZaklad.Server; // Důležité pro přístup k OnlineHraci
+using MoznyZaklad.Server;
 
 namespace MoznyZaklad.Data
 {
@@ -15,7 +15,8 @@ namespace MoznyZaklad.Data
 
     public static class SpravceVysledku
     {
-        private static readonly string SlozkaUctu = "Data/Ucty";
+        // Používáme stejnou bezpečnou cestu jako u SpravceUctu, aby to vždy našlo složku Data
+        private static readonly string SlozkaUctu = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "Data", "Ucty");
 
         public static List<BohatyZaznam> ZiskejNejbohatsi(int pocet = 10)
         {

@@ -1,0 +1,12 @@
+{
+  "Jmeno": "a",
+  "HesloHash": "$2a$11$frS.vDmpAobBVDY/cM8chuDkY7uVj6N9JJO1HQ7iq9Q19GmIFM03C",
+  "AktualniMistnostId": "namesti",
+  "Zivoty": 100,
+  "MaxZivoty": 100,
+  "Utok": 10,
+  "Obrana": 2,
+  "Penize": 0,
+  "InventarIds": [],
+  "DosazeneUspechy": []
+}

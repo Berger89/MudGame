@@ -11,6 +11,7 @@ namespace MoznyZaklad.Prikazy
 
         public string Proved(Hrac hrac, string[] argumenty)
         {
+            // Zavolá správce výsledků, který už vyřeší online i offline hráče
             var nejbohatsi = SpravceVysledku.ZiskejNejbohatsi(10);
 
             if (nejbohatsi.Count == 0)

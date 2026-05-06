@@ -1,0 +1,19 @@
+{
+  "Jmeno": "matej",
+  "HesloHash": "$2a$11$ao3eH2/HArPgBuUr/dRoJejgQS83DGpvNi8sTzRCVhH8NK8EEGj0m",
+  "AktualniMistnostId": "mesto",
+  "Zivoty": 53,
+  "MaxZivoty": 100,
+  "Utok": 10,
+  "Obrana": 2,
+  "Penize": 500,
+  "InventarIds": [
+    "mapa",
+    "mapa",
+    "Vlci_zub",
+    "zlate_jablko"
+  ],
+  "DosazeneUspechy": [
+    "pruzkumnik"
+  ]
+}

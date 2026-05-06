@@ -26,7 +26,7 @@ namespace MoznyZaklad.Prikazy
             // 3. Ziskani predmetu z inventare
             var predmet = hrac.Inventar[index - 1];
 
-            // 4. Kontrola hodnoty predmetu
+            // 4. Kontrola hodnoty predmetu (Opraveno na <= 0)
             if (predmet.Cena <= 0)
             {
                 return $"O tento predmet ({predmet.Nazev}) nema {obchodnik.Jmeno} zajem, je bezcenny.";

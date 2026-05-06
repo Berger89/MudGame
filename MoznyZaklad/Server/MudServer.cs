@@ -252,7 +252,7 @@ namespace MoznyZaklad.Server
                             }
 
                             await writer.WriteLineAsync("\n***************************************************");
-                            await writer.WriteLineAsync("   🎉 GRATULUJEME! PORAZIL JSI STRAŠLIVÉHO DRAKA! 🎉");
+                            await writer.WriteLineAsync("     GRATULUJEME! PORAZIL JSI STRAŠLIVÉHO DRAKA!    ");
                             await writer.WriteLineAsync("          STAL JSI SE LEGENDOU TOHOTO SVĚTA.        ");
                             await writer.WriteLineAsync("    Můžeš pokračovat dál ve svém dobrodružství!     ");
                             await writer.WriteLineAsync("***************************************************\n");
